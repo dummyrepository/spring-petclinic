@@ -2,3 +2,4 @@ node {
     stage('scm'){
         git 'https://github.com/dummyrepository/spring-petclinic.git'   
     }
+}
